@@ -1,0 +1,11 @@
+== MyanmarFullStackDeveloper by GautamKumar(SoeWin)
+
+=== In Java, Generic Class can be use in 2 ways:
+1. Generic Class
+	1.1 Why Generic is important?
+	1.2 Generic Inheritance ( Class & Interface and use their methods)
+ 
+2. Generic Method
+	2.1 Multiple Generic Params and Single return Generic
+	2.2 Wildcard Generic
+

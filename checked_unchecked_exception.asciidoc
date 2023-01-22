@@ -1,0 +1,5 @@
+== MyanmarFullStackDeveloper by GautamKumar(SoeWin)
+
+=== Checked and Unchecked Exceptions in Java:
+1. checked exception check at compile time - solve in 2 ways, try-catch block or throw on method level
+2. unchecked exception throws at run time

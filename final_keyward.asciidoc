@@ -1,0 +1,5 @@
+== MyanmarFullStackDeveloper by GautamKumar(SoeWin)
+
+=== In Java, super keyword can be use in 2 ways:
+1. Call method of the super class and use in overridden method inside child class, cannot allow to access private method
+2. Call parent constructor from child constructor, must be at first line. Java also call super() as default, if no default constructor provided then use available constructor

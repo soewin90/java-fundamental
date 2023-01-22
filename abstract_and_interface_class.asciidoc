@@ -1,0 +1,5 @@
+== MyanmarFullStackDeveloper by GautamKumar(SoeWin)
+
+=== In Java, we can achieve abstraction in 2 ways:
+1. Abstract Class
+2. Interface Class

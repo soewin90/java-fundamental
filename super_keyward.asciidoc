@@ -1,0 +1,6 @@
+== MyanmarFullStackDeveloper by GautamKumar(SoeWin)
+
+=== In Java, final keyword can be use in 3 ways:
+1. final Class - prevent inheritance 
+2. final Method - prevent method overridden
+3. final Variable - (can only assign one time) and never been assigned again
